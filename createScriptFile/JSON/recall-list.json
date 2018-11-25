@@ -1,0 +1,128 @@
+{
+  "info":{
+    "status":200,
+    "message":"OK"
+  },
+  "data":[
+    {
+      "recallId": "RL001",
+      "patientInfo" : {
+        "chartNumber": "AA001"
+      },
+      "providerInfo" : {
+        "providerUserID": "amarti01"
+      },
+      "recallStatus": "Message left on voicemail",
+      "recallReason": "Lab follow up",
+      "recallWeek": "09/05/2024"
+    },
+    {
+      "recallId": "RL002",
+      "patientInfo" : {
+        "chartNumber": "AA002"
+      },
+      "providerInfo" : {
+        "providerUserID": "kwilli02"
+      },
+      "recallStatus": "Message left on voicemail",
+      "recallReason": "Prescription refills",
+      "recallWeek": "03/05/2024"
+    },
+    {
+      "recallId": "RL003",
+      "patientInfo" : {
+        "chartNumber": "AA003"
+      },
+      "providerInfo" : {
+        "providerUserID": "skumar01"
+      },
+      "recallStatus": "Appointment scheduled",
+      "recallReason": "Follow up leg pain",
+      "recallWeek": "08/03/2024"
+    },
+    {
+      "recallId": "RL004",
+      "patientInfo" : {
+        "chartNumber": "AA004"
+      },
+      "providerInfo" : {
+        "providerUserID": "jchang01"
+      },
+      "recallStatus": "Patient states will call back",
+      "recallReason": "Follow up pneumonia",
+      "recallWeek": "08/03/2024"
+    },
+    {
+      "recallId": "RL005",
+      "patientInfo" : {
+        "chartNumber": "AA005"
+      },
+      "providerInfo" : {
+        "providerUserID": "lmanci01"
+      },
+      "recallStatus": "Patient states will call back",
+      "recallReason": "Blood pressure check",
+      "recallWeek": "11/20/2024"
+    },
+    {
+      "recallId": "RL006",
+      "patientInfo" : {
+        "chartNumber": "AA007"
+      },
+      "providerInfo" : {
+        "providerUserID": "lmanci01"
+      },
+      "recallStatus": "Patient states will call back",
+      "recallReason": "Diabetic check",
+      "recallWeek": "10/03/2024"
+    },
+    {
+      "recallId": "RL007",
+      "patientInfo" : {
+        "chartNumber": "AA031"
+      },
+      "providerInfo" : {
+        "providerUserID": "kwilli02"
+      },
+      "recallStatus": "Appointment scheduled",
+      "recallReason": "Follow up hematuria",
+      "recallWeek": "02/09/2024"
+    },
+    {
+      "recallId": "RL008",
+      "patientInfo" : {
+        "chartNumber": "AA039"
+      },
+      "providerInfo" : {
+        "providerUserID": "lmanci01"
+      },
+      "recallStatus": "Message left on voicemail",
+      "recallReason": "Diabetic check",
+      "recallWeek": "07/01/2024"
+    },
+    {
+      "recallId": "RL009",
+      "patientInfo" : {
+        "chartNumber": "AA042"
+      },
+      "providerInfo" : {
+        "providerUserID": "skumar01"
+      },
+      "recallStatus": "Appointment scheduled",
+      "recallReason": "BP check",
+      "recallWeek": "05/05/2024"
+    },
+    {
+      "recallId": "RL010",
+      "patientInfo" : {
+        "chartNumber": "AA033"
+      },
+      "providerInfo" : {
+        "providerUserID": "kwilli02"
+      },
+      "recallStatus": "Appointment scheduled",
+      "recallReason": "Follow up hematuria",
+      "recallWeek": "09/02/2024"
+    }
+   ]
+}

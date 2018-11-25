@@ -1,0 +1,718 @@
+{
+    "info": {
+        "status": "200",
+        "message": "OK"
+    },
+    "data": {
+        "AA001": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "4/16/2010 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA002": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA003": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Morphine",
+                "onSet": "Adulthood",
+                "dateAndTime": "12/15/2002 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Swelling and itching",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA004": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Peanuts",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA005": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA035": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "4/16/2010 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA036": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA043": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA031": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA033": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA030": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA039": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA041": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Sulfa",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Pollen",
+                "onSet": "Adulthood",
+                "dateAndTime": "4/16/2010 12:00 am",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA040": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA044": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Peanuts",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA037": [
+            {
+                "id": 1,
+                "allergyType": "",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA034": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA032": [
+            {
+                "id": 1,
+                "allergyType": "",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA045": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA046": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA006": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA007": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA008": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Cat dander",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA009": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA010": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA011": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA012": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA013": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Peanuts",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA014": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA015": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA016": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA017": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA018": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Sulfa drugs",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Grass",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA019": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA020": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA047": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA022": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA023": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Peanuts",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA024": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA025": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA026": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA048": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA027": [
+            {
+                "id": 1,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Codeine",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Environment",
+                "allergyDetail": "Grass",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Moderate",
+                "status": "Active",
+                "adverseReaction": "Itching and watery eyes",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA028": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA029": [
+            {
+                "id": 1,
+                "allergyType": "No known allergies",
+                "allergyDetail": "",
+                "onSet": "",
+                "dateAndTime": "",
+                "severity": "",
+                "status": "",
+                "adverseReaction": "",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA042": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            }
+        ],
+        "AA038": [
+            {
+                "id": 1,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Shellfish",
+                "onSet": "Adulthood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 2,
+                "allergyType": "Food allergy",
+                "allergyDetail": "Peanuts",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Respiratory distress",
+                "otherSensitivities": ""
+            },
+            {
+                "id": 3,
+                "allergyType": "Drug allergy",
+                "allergyDetail": "Penicillin",
+                "onSet": "Childhood",
+                "dateAndTime": "",
+                "severity": "Severe",
+                "status": "Active",
+                "adverseReaction": "Anaphylaxis",
+                "otherSensitivities": ""
+            }
+        ]
+    }
+}

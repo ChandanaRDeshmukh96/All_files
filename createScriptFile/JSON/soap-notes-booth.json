@@ -1,0 +1,868 @@
+{
+    "AA001": [
+        {
+            "apptId": "ar26",
+            "chiefComplaint": "C/O inability to sleep and nervousness. Asks for medications to relieve nervousness",
+            "presentIllness": "Patient appears nervous with sweaty palms. She is combative and asks for medication prior to seeing the doctor. She appears unbalanced. She states her symptoms have been going on for a month and that she has been unable to sleep.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspneaGI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "F41.9",
+                    "value": ""
+                },
+                {
+                    "id": "B20",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "6 weeks",
+            "patientEducation": "Preventing suicide \r\nSuicide risk\r\nThe Facts About Depression",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar27",
+            "chiefComplaint": "C/O nervousness and insomnia",
+            "presentIllness": "Patient appears genuinely nervous with dark circles under her eyes. She states she is increasingly nervous due to upcoming exams.",
+            "reviewOfSystem": "GENERAL: + weight loss, but no fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspneaGI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "F41.9",
+                    "value": ""
+                },
+                {
+                    "id": "B20",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "2 months",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar28",
+            "chiefComplaint": "C/O nervousness and insomnia; cough and sore throat",
+            "presentIllness": "States cough and sore throat have been present x 4 days, anxiety has increased, and has been fatigued",
+            "reviewOfSystem": "GENERAL: No weight change, + fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspneaGI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "J02.0",
+                    "value": ""
+                },
+                {
+                    "id": "B20",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar29",
+            "chiefComplaint": "C/O increased nervousness and sleep loss",
+            "presentIllness": "States that anxiety has been worsening over the past several weeks as she has been under more stress than usual",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspneaGI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "F41.9",
+                    "value": ""
+                },
+                {
+                    "id": "B20",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "As needed",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA002": [
+        {
+            "apptId": "ar30",
+            "chiefComplaint": "Annual physical exam",
+            "presentIllness": "Reports no problems",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "Z00.00",
+                    "value": ""
+                },
+                {
+                    "id": "",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "80048",
+                    "value": ""
+                },
+                {
+                    "id": "80060",
+                    "value": ""
+                },
+                {
+                    "id": "81000",
+                    "value": ""
+                },
+                {
+                    "id": "85025",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [
+                {
+                    "id": "90718",
+                    "value": "",
+                    "additionalField": ""
+                },
+                {
+                    "id": "90471",
+                    "value": "",
+                    "additionalField": ""
+                }
+            ],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "One year",
+            "patientEducation": "Weight Management - Fruits and Vegetables\r\n\r\n",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA003": [
+        {
+            "apptId": "ar31",
+            "chiefComplaint": "DIabetes",
+            "presentIllness": "C/O anxiety, fatigue, and weakness",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E11.9",
+                    "value": ""
+                },
+                {
+                    "id": "",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "36415",
+                    "value": ""
+                },
+                {
+                    "id": "80048",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "6 months",
+            "patientEducation": "Smoking and Diabetes\r\nDiabetes and You",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA004": [
+        {
+            "apptId": "ar32",
+            "chiefComplaint": "Diabetes",
+            "presentIllness": "Diabetic checkup",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E66.9",
+                    "value": ""
+                },
+                {
+                    "id": "E10.9",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "80048",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "6 month",
+            "patientEducation": "Adult Obesity\r\nDiabetes and You",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar33",
+            "chiefComplaint": "Elevated blood sugar",
+            "presentIllness": "C/O \"I think my blood sugar is up\", feels weak and fatigued x 1 week; increased thirst and urination",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E66.9",
+                    "value": ""
+                },
+                {
+                    "id": "E10.9",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "82947",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "6 month",
+            "patientEducation": "Weight Management\r\nWeight Management-Fruits and Vegetables",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar34",
+            "chiefComplaint": "Follow up diabetes",
+            "presentIllness": "Diabetic checkup",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E66.9",
+                    "value": ""
+                },
+                {
+                    "id": "E10.9",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "82947",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "6 month",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA005": [
+        {
+            "apptId": "ar35",
+            "chiefComplaint": "C/O shortness of breath and post fall",
+            "presentIllness": "Patient states that he has been experiencing SOB x 2 weeks, increasingly worse. No other symptoms reported. He also states that he fell walking into his house three days ago, cause of fall unknown.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E11.9",
+                    "value": ""
+                },
+                {
+                    "id": "I10",
+                    "value": ""
+                },
+                {
+                    "id": "I21.09",
+                    "value": ""
+                },
+                {
+                    "id": "F17",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "80048",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "one month",
+            "patientEducation": "Heart Disease\r\nInjury Prevention\r\nLow Triglyceride Diet\r\nLow Fat Diet",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar36",
+            "chiefComplaint": "Blood pressure and post-fall follow up",
+            "presentIllness": "Patient states that he has been feeling well after his fall. No symptoms reported.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E11.9",
+                    "value": ""
+                },
+                {
+                    "id": "I10",
+                    "value": ""
+                },
+                {
+                    "id": "I21.09",
+                    "value": ""
+                },
+                {
+                    "id": "F17",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "Smoking and DIabetes",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar37",
+            "chiefComplaint": "BP and diabetes check",
+            "presentIllness": "Patient states he has been having headaches for about a week. He has also noticed increased thirst and urination, so he is concerned about his diabetes. He will also need a return to work note, medication evaluation, and pneumococcal immunication.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "E11.9",
+                    "value": ""
+                },
+                {
+                    "id": "I10",
+                    "value": ""
+                },
+                {
+                    "id": "I21.09",
+                    "value": ""
+                },
+                {
+                    "id": "F17",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "82947",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "3 months",
+            "patientEducation": "Smoking Cessation\r\nHigh Blood Pressure \r\nDiabetes and You\r\n",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA006": [
+        {
+            "apptId": "ar38",
+            "chiefComplaint": "C/O \"Persistant cold\"",
+            "presentIllness": "Patient states that she has had cold symptoms on and off for about two months. C/O congestion, sinus pressure, cough, and fatigue.",
+            "reviewOfSystem": "GENERAL: No weight change, + fever, + chills, no night sweats, + generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: + wheezing, + cough, + congestion, no hemoptysis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance. Nasal congestion evident. NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. SKIN: Color, turgor, moisture, and temperature normal. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar39",
+            "chiefComplaint": "C/O \"Cold won't go away\"",
+            "presentIllness": "Patient states that she is still experiencing period cold symptoms. Symptoms tend to worsen with weather changes. She has noted no fever or chills.",
+            "reviewOfSystem": "GENERAL: No weight change, + fever, + chills, no night sweats, + generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: + wheezing, + cough, + congestion, no hemoptysis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance. Nasal congestion evident. NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. SKIN: Color, turgor, moisture, and temperature normal. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar40",
+            "chiefComplaint": "Pre-employment physical and c/o painful wart on right hand",
+            "presentIllness": "Patient states that she needs a general physcial exam for employment. She also states that she has a wart on her right hand x 3 months. It is now causing her more pain.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "Z00.00",
+                    "value": ""
+                },
+                {
+                    "id": "B07",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "80048",
+                    "value": ""
+                },
+                {
+                    "id": "80060",
+                    "value": ""
+                },
+                {
+                    "id": "81000",
+                    "value": ""
+                },
+                {
+                    "id": "85025",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "Breast Cancer Young Women",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA007": [
+        {
+            "apptId": "ar41",
+            "chiefComplaint": "C/O \"heart beating too fast\"",
+            "presentIllness": "Patient states that he has been experiencing rapid heart rate on and off for a week. Activity tends to cause his heart rate to \"beat much faster than it used to,\" he has also noticed occasional palpitations",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS: External auditory canals and TMs normal. Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Motor strength normal. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "I45.9",
+                    "value": ""
+                },
+                {
+                    "id": "J45.909",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "3 months",
+            "patientEducation": "Asthma\r\nWeight Management - Fruits and Vegetables",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA008": [
+        {
+            "apptId": "ar42",
+            "chiefComplaint": "C/O headaches and left arm weakness",
+            "presentIllness": "Recent headaches increasing in severity and patient noted occasional left arm weakness. This is not associated with activity and cannot be replicated by activity. He notices no other symptoms when this occurs. At this time, Excedrin has been effectively treating his headaches.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Left grip diminished. Joints show normal range of motion",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "Yes",
+            "followUpTimeline": "3 months",
+            "patientEducation": "High Blood Pressure",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar43",
+            "chiefComplaint": "Post hospital followup; left arm weakness; speech difficult to understand; wife states there is blood in the urine",
+            "presentIllness": "Patient was seen in the hospital and diagnosed with a CVA. His left arm is still weak, although hasn't been worsening. There is also some slurring of the speech. He has noticed blood in the urine for the past two days, but reports no associated symptoms.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice. MUSCULOSKELETAL: No joint pain, swelling, injury, or limitation of motion. Complains of muscle weakness, pain, cramps. SKIN: No rash, itching, abnormal pigmentation, depigmentation",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis. MUSCULOSKELETAL: Posture normal. Left grip diminished. Joints show normal range of motion",
+            "diagnosis": [
+                {
+                    "id": "I10",
+                    "value": ""
+                },
+                {
+                    "id": "I60.9",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "yes",
+            "followUpTimeline": "1 month",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA009": [
+        {
+            "apptId": "ar44",
+            "chiefComplaint": "Annual gynecological exam, C/O lump in left breast",
+            "presentIllness": "Patient states she noticed a lump in her left breast, near the center, during a breast-self exam. She reports that the lump is not painful and is not causing any problems.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. GU/GYN (female): No urgency, dysuria, nocturia, hematuria, polyuria, anuria, kidney stones, urinary incontinence, frequent urinary infections, vaginal discharge, sexually transmitted disease, vaginal bleeding. \r\nLMP: 6/30/2018 , normal. Type of birth control used: none . \r\nBREAST: + breast lumps left, no tenderness, swelling, nipple discharge, nipple changes.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. BREAST: Symmetrical, development is age appropriate. Skin appears normal in color, tone and turgor without lesions, orange peel, or dimpling. No tenderness. Small palpable mass midline left breast. No nipple retraction or discharge. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. PMI normal in location and character. GU/GYN (female): No vulvar lesions. Vaginal mucosa healthy appearing. No abnormal discharge. Bimanual Exam: Cervix normal. Normal bimanual w/o mass appreciated. Pap smear performed.",
+            "diagnosis": [
+                {
+                    "id": "Z01.409",
+                    "value": ""
+                },
+                {
+                    "id": "N63.0",
+                    "value": ""
+                }
+            ],
+            "prescription": [],
+            "labs": [
+                {
+                    "id": "80048",
+                    "value": ""
+                },
+                {
+                    "id": "80060",
+                    "value": ""
+                },
+                {
+                    "id": "81000",
+                    "value": ""
+                },
+                {
+                    "id": "85025",
+                    "value": ""
+                },
+                {
+                    "id": "36415",
+                    "value": ""
+                }
+            ],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "yes",
+            "followUpTimeline": "3 months",
+            "patientEducation": "Weight Management\r\nWeight Management-Fruits and Vegetables\r\nMammogram\r\nLow Fat Diet",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA010": [
+        {
+            "apptId": "ar45",
+            "chiefComplaint": "C/O increased memory loss",
+            "presentIllness": "Patient's husband accompanies her to appointments due to memory loss. She states that her lapses in memory have been more frequent and more severe, which has been confirmed by her husband.",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis.",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "yes",
+            "followUpTimeline": "2 months",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ],
+    "AA011": [
+        {
+            "apptId": "ar46",
+            "chiefComplaint": "C/O feet itching and painful",
+            "presentIllness": "Bilateral foot itching and pain x several weeks. No other symptoms reported",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis.",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar47",
+            "chiefComplaint": "Check up",
+            "presentIllness": "No symptoms reported",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis.",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar48",
+            "chiefComplaint": "C/O stomach ache",
+            "presentIllness": "Patient states that he has had a stomach ache x 2 days. Mother states that he has a lack of appetite and has \"not been himself\"",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis.",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        },
+        {
+            "apptId": "ar49",
+            "chiefComplaint": "Check up",
+            "presentIllness": "No symptoms reported",
+            "reviewOfSystem": "GENERAL: No weight change, fever, chills, night sweats, generalized weakness. C/o fatigue. EYES: No diplopia, tearing, eye pain, blind spots, light sensitivity, excessive blinking. HEENT: No headache, dizziness, lightheadedness, diplopia, tearing, eye pain, blind spots, excessive blinking, tinnitus, ear pain or discharge. PULMONARY: No wheezing, cough, congestion, hemoptysis, respiratory infections, tuberculosis, chest wall pain. CV: No chest pain, + arrhythmia, syncope, dyspnea, exertional dyspnea, orthopnea, paroxysmal nocturnal dyspnea GI: No change in appetite, difficulty swallowing, indigestion, heartburn, belching, nausea, vomiting, hematemesis, hematochezia, abdomen pain, flatulence, changes in bowel habits, constipation, diarrhea, abnormal stools, incontinence, hemorrhoids, jaundice.",
+            "examination": "GENERAL: Well developed. Well nourished. Alert. In no apparent distress. HEENT: PERRL. TM Right Clear. TM Left clear NOSE: Clear. Nasal mucosa is moist and normal in appearance NECK: Supple with normal range of motion. Carotid pulses strong and equal without bruits. CHEST: Lungs: Respirations are regular with no intercostal retractions or use of accessory muscles apparent. No wheezing, rales, rhonchi, stridor, or rubs. ABDOMEN: Bowel sounds are normal.. No evidence of masses, organomegaly Normal to percussion. HEAD: Normocephalic. Atraumatic. EYES: Eyes and lids appear symmetrical. No exudate. Sclera clear. PERRLA, EOMI. EARS:Hearing normal as tested by whisper and Rinne/Weber. CV: RRR, normal S1 S2, no S3/S4, murmur, gallop, rub, arrhythmia, or heave. SKIN: Color, turgor, moisture, and temperature normal. BACK: No evidence of scoliosis or kyphosis.",
+            "diagnosis": [],
+            "prescription": [],
+            "labs": [],
+            "imaging": [],
+            "immunization": [],
+            "injection": [],
+            "procedure": [],
+            "attachments": [],
+            "followUpRequired": "No",
+            "followUpTimeline": "No",
+            "patientEducation": "",
+            "addendum": [],
+            "referringProvider": [],
+            "referringLabs": [],
+            "referringPractice": [],
+            "SOAPNoteRecordedDate": "9/1/2019"
+        }
+    ]
+}
